@@ -1,2 +1,3 @@
-2026/04/29-10:43:27.034 6958 Creating DB C:\Users\Pengu\Desktop\Projects\AIUnreal\AIUnreal\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/04/29-10:43:27.093 6958 Reusing MANIFEST C:\Users\Pengu\Desktop\Projects\AIUnreal\AIUnreal\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/19-11:36:41.462 4090 Reusing MANIFEST C:\Users\Pengu\Desktop\Projects\AIUnreal\AIUnreal\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/19-11:36:41.469 4090 Recovering log #3
+2026/05/19-11:36:41.470 4090 Reusing old log C:\Users\Pengu\Desktop\Projects\AIUnreal\AIUnreal\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
