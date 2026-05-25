@@ -46,9 +46,9 @@ Bool that holds the value for if the pawn is investigating.
 
 Decorators are set to abort both so higher priority task interrupts lower ones and takes over behaviour. 
 
-Chase runs when CanSeeOpponent is set, sets speed and moves towards TargetActor.
+Chase runs when CanSeeOpponent is set, sets speed and moves towards TargetActor that gets set through HandleEnemySighted from the AIPerception event.
 Investigate runs when IsInvestigating is set, sets speed and runs the BTTask_InvestigateLocation.
-Patrol always runs as fallback, sets speed to 200 and moves to the next PatrolPoint.
+Patrol runs as default, sets speed and moves to the next PatrolPoint by running BTTask_NextPatrolPoint.
 
 BTTask_InvestigateLocation makes the pawn move towards target location that's set by either noise or the location enemy was last sighted. Upon arrival the pawn randomly rotates left or right and then the opposite direction after a short delay, when this pattern is complete it walks to a new close by random location and repeats for the amount of times set to the SearchPoints in the tree.
 
