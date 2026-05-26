@@ -1,3 +1,5 @@
-2026/05/25-20:47:31.266 6da0 Reusing MANIFEST C:\Users\Pengu\Desktop\Projects\AIUnreal\AIUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/25-20:47:31.287 6da0 Recovering log #4
-2026/05/25-20:47:31.295 6da0 Reusing old log C:\Users\Pengu\Desktop\Projects\AIUnreal\AIUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/05/26-20:25:56.664 7b58 Reusing MANIFEST C:\Users\Pengu\Desktop\Projects\AIUnreal\AIUnreal\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/26-20:25:56.688 7b58 Recovering log #4
+2026/05/26-20:25:56.689 7b58 Level-0 table #6: started
+2026/05/26-20:25:56.707 7b58 Level-0 table #6: 67182 bytes OK
+2026/05/26-20:25:56.723 7b58 Delete type=0 #4
