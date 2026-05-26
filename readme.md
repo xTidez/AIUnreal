@@ -1,3 +1,7 @@
+# Patroling Npc Guard with AIPerception in UnrealEngine
+Project contains a basic setup for a patrolling guard that reacts to sound and sight using AIPerception to sens stimuli and a behavior tree to change the behavior tochase , investigate or patrol depending on if sense is triggered and what sense has been triggered. 
+Also contains a alert broadcast to alert the allied guards to join the chase when a enemy is located. 
+
 ## BlackBoard Keys
 
 - SelfActor (Object->Actor)
